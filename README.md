@@ -1,0 +1,1 @@
+These are the codes that I used for performing data cleaning, data manipulation, and data analysis by first importing 4 separate excel files then clean them respectively with given rules, then only finally join them together with specific unique keys to achieve a complex bureau dataset with different risk factors.
